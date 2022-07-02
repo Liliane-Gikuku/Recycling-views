@@ -31,4 +31,3 @@ class NamesViewHolder(itemView:View):RecyclerView.ViewHolder(itemView){
 
 
 //principles of object oriented programming, abstraction
-//a room you were hosted in at first will remain but you hardly realize it still exists
